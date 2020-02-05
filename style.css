@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navigation_list {
+    background-color: gray;
+    display: flex;
+    margin-top: 0;
+    justify-content: space-between;
+    list-style: none;
+    height: 90px;
+    align-items: center;
+}
+
+
+/*
+.navigation_list li {
+    margin: 5px;
+    border-left: 7px solid green;
+    border-width: 5px;
+    border-spacing: 30%;
+    padding-left: 10px;
+}
+*/
+
+header {
+    display: flex;
+    height: 120px;
+    align-items: center;
+    width: 100%;
+    vertical-align: center;
+}
+
+header div {
+    background-color: gray;
+    height: 100%;
+    flex: 1;
+    margin: 0 5px;
+}

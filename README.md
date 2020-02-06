@@ -21,8 +21,6 @@ It is a heatmap that highlights areas on the https://www.smashingmagazine.com/ p
 
 [Design Teardown](https://gracious-jang-d7edc2.netlify.com/)  
 
-https://rawcdn.githack.com/Calvinoea/Design-Teardown-Smashing-Magazine/tree/feature/index.html
-https://raw.githack.com/Calvinoea/Design-Teardown-Smashing-Magazine/tree/feature/index.html
 
 ## Getting Article Started  
 You may use the following steps to get a local copy:

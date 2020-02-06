@@ -1,154 +1,154 @@
 * {
-    box-sizing: border-box;
+   box-sizing: border-box;
 }
 
 a {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 h3,
 h4,
 h5,
 p {
-    text-align: left;
-    padding: 5px;
+  text-align: left;
+  padding: 5px;
 }
 
 h3 {
-    font-family: 'Muli', sans-serif;
-    font-size: 50px;
-    font-weight: bold;
+  font-family: 'Muli', sans-serif;
+  font-size: 50px;
+  font-weight: bold;
 }
 
 h4 {
-    font-size: 25px;
-    font-family: 'Oswald', sans-serif;
-    font-weight: 700px;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700px;
 }
 
 p {
-    font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 body {
-    margin: 0;
-    padding: 0;
-    text-align: center;
+  margin: 0;
+  padding: 0;
+  text-align: center;
 }
 
 header nav {
-    display: flex;
-    height: 120px;
-    width: 100%;
-    justify-content: center;
+  display: flex;
+  height: 120px;
+  width: 100%;
+  justify-content: center;
 }
 
 header div {
-    background-color: darkgray;
-    height: 100%;
-    flex: 1;
-    margin: 0 5px;
-    padding-top: 50px;
+  background-color: darkgray;
+  height: 100%;
+  flex: 1;
+  margin: 0 5px;
+  padding-top: 50px;
 }
 
 .flex-container {
-    display: flex;
-    justify-content: space-between;
-    margin: 8px 0;
+  display: flex;
+  justify-content: space-between;
+  margin: 8px 0;
 }
 
 .two-columns article {
-    background-color: gray;
-    height: 730px;
-    width: 49.5%;
-    padding-top: 200px;
+  background-color: gray;
+  height: 730px;
+  width: 49.5%;
+  padding-top: 200px;
 }
 
 .three-columns article {
-    background-color: white;
-    height: 460px;
-    width: 33%;
-    padding-top: 100px;
+  background-color: white;
+  height: 460px;
+  width: 33%;
+  padding-top: 100px;
 }
 
 .width-95 {
-    width: 95%;
-    margin: auto;
+  width: 95%;
+  margin: auto;
 }
 
 .left-small article:first-child {
-    background-color: lightgray;
-    margin-right: 8px;
-    flex: 1;
+  background-color: lightgray;
+  margin-right: 8px;
+  flex: 1;
 }
 
 .left-small article:last-child {
-    flex: 2;
+  flex: 2;
 }
 
 .one_column {
-    background-color: lightgray;
-    margin: 5px auto;
-    padding: 29px 0;
+  background-color: lightgray;
+  margin: 5px auto;
+  padding: 29px 0;
 }
 
 .eigth_row {
-    height: 1080px;
-    background-color: gray;
+  height: 1080px;
+  background-color: gray;
 }
 
 .community_links article:first-child {
-    background-color: lightgray;
-    margin-right: 8px;
-    flex: 1;
-    height: 400px;
+  background-color: lightgray;
+  margin-right: 8px;
+  flex: 1;
+  height: 400px;
 }
 
 .community_links article:last-child {
-    background-color: white;
-    flex: 3;
-    height: 400px;
+  background-color: white;
+  flex: 3;
+  height: 400px;
 }
 
 .small article {
-    background-color: white;
-    height: 400px;
-    width: 49.5%;
-    padding-top: 60px;
+  background-color: white;
+  height: 400px;
+  width: 49.5%;
+  padding-top: 60px;
 }
 
 .small {
-    margin: 8px auto;
+  margin: 8px auto;
 }
 
 .featured_book_section {
-    background-color: gray;
-    height: 380px;
+  background-color: gray;
+  height: 380px;
 }
 
 footer {
-    background-color: white;
-    height: 450px;
-    margin-top: 5%;
+  background-color: white;
+  height: 450px;
+  margin-top: 5%;
 }
 
 footer ul {
-    display: flex;
-    flex-wrap: wrap;
-    font-size: 25px;
-    width: 80%;
-    margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 25px;
+  width: 80%;
+  margin: auto;
 }
 
 footer ul li {
-    flex: 1;
-    padding: 20px;
+  flex: 1;
+  padding: 20px;
 }
 
 footer p {
-    width: 40%;
-    text-align: center;
-    margin: auto;
-    margin-top: 2%;
+  width: 40%;
+  text-align: center;
+  margin: auto;
+  margin-top: 2%;
 }

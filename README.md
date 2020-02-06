@@ -15,7 +15,7 @@ It is a heatmap that highlights areas on the https://www.smashingmagazine.com/ p
   
 - HTML
 - CSS
-- Font Awesome
+
   
 ## Live Project  
 

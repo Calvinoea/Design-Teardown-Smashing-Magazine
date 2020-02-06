@@ -1,10 +1,11 @@
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
+
 body {
-  margin: 0;
-  padding: 0;
-  text-align: center;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
 
 header {
@@ -19,41 +20,85 @@ header div {
     height: 100%;
     flex: 1;
     margin: 0 5px;
-    padding-top: 50px ;
+    padding-top: 50px;
 }
 
 .flex-container {
-  display: flex;
-  justify-content: space-between;
-  margin: 8px 0;
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 0;
 }
 
 .two-columns article {
-  background-color: gray;
-  height: 730px;
-  width: 49.5%;
-  padding-top: 200px ;
+    background-color: gray;
+    height: 730px;
+    width: 49.5%;
+    padding-top: 200px;
 }
 
-.three-columns article{
-  background-color: lightgray;
-  height: 460px;
-  width: 33%;
-  padding-top: 200px;
+.three-columns article {
+    background-color: lightgray;
+    height: 460px;
+    width: 33%;
+    padding-top: 200px;
 }
 
 .width-95 {
-  width: 95%;
-  margin: auto;
+    width: 95%;
+    margin: auto;
 }
 
 .left-small article:first-child {
-  background-color: lightgray;
-  margin-right: 8px ;
-  flex: 1;
+    background-color: lightgray;
+    margin-right: 8px;
+    flex: 1;
 }
+
 .left-small article:last-child {
-  flex: 2;
+    flex: 2;
 }
 
+.one_column {
+    background-color: lightgray;
+    margin: 5px auto;
+    padding: 29px 0;
+}
 
+.eigth_row {
+    height: 1080px;
+    background-color: gray;
+}
+
+.community_links article:first-child {
+    background-color: lightgray;
+    margin-right: 8px;
+    flex: 1;
+    height: 400px;
+}
+
+.community_links article:last-child {
+    background-color: lightgray;
+    flex: 3;
+    height: 400px;
+}
+
+.small article {
+    background-color: lightgray;
+    height: 400px;
+    width: 49.5%;
+    padding-top: 60px;
+}
+
+.small {
+    margin: 8px auto;
+}
+
+.featured_book_section {
+    background-color: gray;
+    height: 380px;
+}
+
+footer {
+    background-color: gray;
+    height: 450px;
+}

@@ -19,7 +19,7 @@ It is a heatmap that highlights areas on the https://www.smashingmagazine.com/ p
   
 ## Live Project  
 
-[Design Teardown](https://gracious-jang-d7edc2.netlify.com/)  
+[Design Teardown](https://compassionate-mayer-1add0d.netlify.com/)  
 
 
 ## Getting Article Started  
